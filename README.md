@@ -6,7 +6,7 @@ This is an ultimate collection of open source games with installation files unde
 These are all compatible with Windows 32bit and should work on Windows 64bit. Most are also UNIX, MacOS compatible. It is advised to check the READMEs to verify system requirements for each game.
 
 <h2>Licensing</h2>
-We haven't put any aditional licensing restrictions as each program uses a different license all of which are available in the installation files for each game. 
+We haven't put any additional licensing restrictions as each program uses a different license; all of which are available in the installation files for each game. 
 
 It is the responsibility of each user to read the terms, EULA, or other licensing restrictions prior to using any of these programs for commercial use. Everything in this OSGC should be perfectly fine for personal and commercial use. That said, this collection is offered "ASIS" with no warranty whatsoever. 
 
